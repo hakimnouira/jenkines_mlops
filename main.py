@@ -3,7 +3,7 @@ from model_pipeline import prepare_data, train_model, evaluate_model, save_model
 import mlflow
 import mlflow.sklearn
 
-mlflow.set_tracking_uri("http://127.0.0.1:5000")
+mlflow.set_tracking_uri("http://127.0.0.1:5001")
 mlflow.set_experiment("Mon_Experiment_ML")
 
 def main():
