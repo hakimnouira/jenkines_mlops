@@ -1,7 +1,7 @@
-import pandas as pd
 import joblib
 from catboost import CatBoostClassifier
 from sklearn.metrics import accuracy_score, classification_report, roc_auc_score
+import pandas as pd
 
 def prepare_data(train_path: str, test_path: str):
     """Loads and prepares the dataset."""
