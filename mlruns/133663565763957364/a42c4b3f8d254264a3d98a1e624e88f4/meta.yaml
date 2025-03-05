@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/a42c4b3f8d254264a3d98a1e624e88f4/artifacts
+deleted_time: 1740565551407
+end_time: 1740524346045
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: a42c4b3f8d254264a3d98a1e624e88f4
+run_name: burly-sow-512
+run_uuid: a42c4b3f8d254264a3d98a1e624e88f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524345960
+status: 3
+tags: []
+user_id: jenkins

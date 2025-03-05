@@ -11,3 +11,4 @@ fastapi
 uvicorn
 mlflow
 catboost
+pandas==2.0.3

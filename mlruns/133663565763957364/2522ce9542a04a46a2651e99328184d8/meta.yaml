@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/2522ce9542a04a46a2651e99328184d8/artifacts
+end_time: 1741151507928
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: 2522ce9542a04a46a2651e99328184d8
+run_name: peaceful-wasp-967
+run_uuid: 2522ce9542a04a46a2651e99328184d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741151506799
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/3268b871f3204ef98e58380182afc099/artifacts
+deleted_time: 1740565551545
+end_time: 1740522296472
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 3268b871f3204ef98e58380182afc099
+run_name: grandiose-kit-804
+run_uuid: 3268b871f3204ef98e58380182afc099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522296428
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/e780d8ea288243d189d5e2508e4db80d/artifacts
+end_time: 1741152921157
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: e780d8ea288243d189d5e2508e4db80d
+run_name: powerful-loon-430
+run_uuid: e780d8ea288243d189d5e2508e4db80d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741152919873
+status: 3
+tags: []
+user_id: jenkins

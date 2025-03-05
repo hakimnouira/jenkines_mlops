@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/a7af6fd1f60646dea8236b4a6330695d/artifacts
+deleted_time: 1740565551492
+end_time: 1740522651394
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: a7af6fd1f60646dea8236b4a6330695d
+run_name: delicate-bird-88
+run_uuid: a7af6fd1f60646dea8236b4a6330695d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522651318
+status: 3
+tags: []
+user_id: jenkins

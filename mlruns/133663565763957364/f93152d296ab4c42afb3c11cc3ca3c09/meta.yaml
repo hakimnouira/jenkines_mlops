@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/f93152d296ab4c42afb3c11cc3ca3c09/artifacts
+end_time: 1741149989058
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: f93152d296ab4c42afb3c11cc3ca3c09
+run_name: industrious-mule-423
+run_uuid: f93152d296ab4c42afb3c11cc3ca3c09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741149980761
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/d10d73a5e4934353aae469509f01854e/artifacts
+end_time: 1741150686136
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: d10d73a5e4934353aae469509f01854e
+run_name: exultant-elk-914
+run_uuid: d10d73a5e4934353aae469509f01854e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741150686073
+status: 3
+tags: []
+user_id: jenkins

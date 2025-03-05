@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/f22d937985f5439fba2b06373350de2b/artifacts
+deleted_time: 1740565551389
+end_time: 1740524544229
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: f22d937985f5439fba2b06373350de2b
+run_name: caring-quail-370
+run_uuid: f22d937985f5439fba2b06373350de2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524544171
+status: 3
+tags: []
+user_id: jenkins

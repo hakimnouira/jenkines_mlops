@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/56e5859913d941b9971e2e23a2ecfd51/artifacts
+deleted_time: 1740565551526
+end_time: 1740522573932
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 56e5859913d941b9971e2e23a2ecfd51
+run_name: tasteful-doe-228
+run_uuid: 56e5859913d941b9971e2e23a2ecfd51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522573878
+status: 3
+tags: []
+user_id: jenkins

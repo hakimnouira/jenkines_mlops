@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/84f0d5a419e749c49477146f34f3459b/artifacts
+deleted_time: 1740565551334
+end_time: 1740557139383
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 84f0d5a419e749c49477146f34f3459b
+run_name: nosy-shrimp-467
+run_uuid: 84f0d5a419e749c49477146f34f3459b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740557139315
+status: 3
+tags: []
+user_id: jenkins

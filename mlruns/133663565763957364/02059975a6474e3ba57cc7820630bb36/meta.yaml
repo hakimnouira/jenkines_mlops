@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/02059975a6474e3ba57cc7820630bb36/artifacts
+deleted_time: 1740565551389
+end_time: 1740524552462
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 02059975a6474e3ba57cc7820630bb36
+run_name: gregarious-loon-501
+run_uuid: 02059975a6474e3ba57cc7820630bb36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524548173
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/36cbda5504aa43c0b03769997ff60bab/artifacts
+deleted_time: 1740565551491
+end_time: 1740523768256
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 36cbda5504aa43c0b03769997ff60bab
+run_name: mercurial-toad-658
+run_uuid: 36cbda5504aa43c0b03769997ff60bab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523768207
+status: 3
+tags: []
+user_id: jenkins

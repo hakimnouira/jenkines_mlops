@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/a3a7317c575c482fa76de4274f7cfed2/artifacts
+deleted_time: 1740565551392
+end_time: 1740524421811
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: a3a7317c575c482fa76de4274f7cfed2
+run_name: clean-fish-523
+run_uuid: a3a7317c575c482fa76de4274f7cfed2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524421731
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/91d0e17f02c54032a213d5e364435294/artifacts
+deleted_time: 1740565551559
+end_time: 1740520459771
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 91d0e17f02c54032a213d5e364435294
+run_name: illustrious-doe-710
+run_uuid: 91d0e17f02c54032a213d5e364435294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740520459726
+status: 4
+tags: []
+user_id: the

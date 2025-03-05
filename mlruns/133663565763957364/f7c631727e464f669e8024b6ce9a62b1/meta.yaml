@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/f7c631727e464f669e8024b6ce9a62b1/artifacts
+end_time: 1741149646425
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: f7c631727e464f669e8024b6ce9a62b1
+run_name: judicious-ox-474
+run_uuid: f7c631727e464f669e8024b6ce9a62b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741149645334
+status: 3
+tags: []
+user_id: jenkins

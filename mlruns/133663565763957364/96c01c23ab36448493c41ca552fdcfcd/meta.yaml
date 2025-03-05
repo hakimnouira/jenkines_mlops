@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/96c01c23ab36448493c41ca552fdcfcd/artifacts
+deleted_time: 1740565551415
+end_time: 1740524341651
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 96c01c23ab36448493c41ca552fdcfcd
+run_name: skittish-elk-517
+run_uuid: 96c01c23ab36448493c41ca552fdcfcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524337801
+status: 3
+tags: []
+user_id: jenkins

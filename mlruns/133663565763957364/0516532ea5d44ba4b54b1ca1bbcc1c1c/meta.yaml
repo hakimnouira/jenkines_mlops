@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/0516532ea5d44ba4b54b1ca1bbcc1c1c/artifacts
+end_time: 1741152519412
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: 0516532ea5d44ba4b54b1ca1bbcc1c1c
+run_name: colorful-mouse-291
+run_uuid: 0516532ea5d44ba4b54b1ca1bbcc1c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741152519360
+status: 3
+tags: []
+user_id: jenkins

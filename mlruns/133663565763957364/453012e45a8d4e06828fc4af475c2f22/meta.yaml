@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/453012e45a8d4e06828fc4af475c2f22/artifacts
+deleted_time: 1740565551375
+end_time: 1740524557940
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 453012e45a8d4e06828fc4af475c2f22
+run_name: rare-hawk-417
+run_uuid: 453012e45a8d4e06828fc4af475c2f22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524557867
+status: 3
+tags: []
+user_id: jenkins

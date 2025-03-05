@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/54ede5d4195e4218b9499eda9a868142/artifacts
+end_time: 1741150141559
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: 54ede5d4195e4218b9499eda9a868142
+run_name: whimsical-cub-899
+run_uuid: 54ede5d4195e4218b9499eda9a868142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741150140485
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/2dbfaf61bd8e4b4a8284ef84e59b5c1c/artifacts
+deleted_time: 1740565551399
+end_time: 1740524416995
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 2dbfaf61bd8e4b4a8284ef84e59b5c1c
+run_name: stylish-horse-677
+run_uuid: 2dbfaf61bd8e4b4a8284ef84e59b5c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524412962
+status: 3
+tags: []
+user_id: jenkins

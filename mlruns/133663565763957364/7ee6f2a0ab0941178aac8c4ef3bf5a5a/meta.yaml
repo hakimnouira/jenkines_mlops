@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/7ee6f2a0ab0941178aac8c4ef3bf5a5a/artifacts
+deleted_time: 1740565551471
+end_time: 1740523866694
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 7ee6f2a0ab0941178aac8c4ef3bf5a5a
+run_name: shivering-gull-802
+run_uuid: 7ee6f2a0ab0941178aac8c4ef3bf5a5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523866633
+status: 3
+tags: []
+user_id: jenkins

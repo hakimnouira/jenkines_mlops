@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/a3bde18bb70643bb84598c3597509625/artifacts
+deleted_time: 1740565551477
+end_time: 1740523781296
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: a3bde18bb70643bb84598c3597509625
+run_name: omniscient-ox-517
+run_uuid: a3bde18bb70643bb84598c3597509625
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523781215
+status: 3
+tags: []
+user_id: jenkins

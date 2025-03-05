@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/481c4d9aa74f472c9fb463ef653db604/artifacts
+end_time: 1741165371905
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: 481c4d9aa74f472c9fb463ef653db604
+run_name: magnificent-gnu-630
+run_uuid: 481c4d9aa74f472c9fb463ef653db604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741165370726
+status: 3
+tags: []
+user_id: the

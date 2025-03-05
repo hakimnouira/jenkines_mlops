@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/4525b2317c804cecba77e066aaea34b5/artifacts
+deleted_time: 1740565551301
+end_time: 1740557904920
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 4525b2317c804cecba77e066aaea34b5
+run_name: marvelous-carp-46
+run_uuid: 4525b2317c804cecba77e066aaea34b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740557904856
+status: 3
+tags: []
+user_id: jenkins

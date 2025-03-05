@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/f54c34b95c854e7fadd634f19ce7ea0f/artifacts
+deleted_time: 1740565551448
+end_time: 1740524018348
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: f54c34b95c854e7fadd634f19ce7ea0f
+run_name: loud-squid-234
+run_uuid: f54c34b95c854e7fadd634f19ce7ea0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524018262
+status: 3
+tags: []
+user_id: jenkins

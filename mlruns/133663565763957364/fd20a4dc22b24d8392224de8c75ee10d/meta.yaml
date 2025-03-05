@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/fd20a4dc22b24d8392224de8c75ee10d/artifacts
+deleted_time: 1740565551548
+end_time: 1740520710616
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: fd20a4dc22b24d8392224de8c75ee10d
+run_name: painted-stag-246
+run_uuid: fd20a4dc22b24d8392224de8c75ee10d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740520706424
+status: 3
+tags: []
+user_id: the

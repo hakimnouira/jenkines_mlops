@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/791f1b08e91b4e9fadbfc7ef9e1cd8bc/artifacts
+deleted_time: 1740565551423
+end_time: 1740524117980
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 791f1b08e91b4e9fadbfc7ef9e1cd8bc
+run_name: aged-fly-372
+run_uuid: 791f1b08e91b4e9fadbfc7ef9e1cd8bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524112600
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/a36bb59326d84a75976f9409fe294fc5/artifacts
+end_time: 1741149995153
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: a36bb59326d84a75976f9409fe294fc5
+run_name: intrigued-cub-550
+run_uuid: a36bb59326d84a75976f9409fe294fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741149993984
+status: 3
+tags: []
+user_id: jenkins

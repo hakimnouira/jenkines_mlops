@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/e1b147a12fea47f2b008613552c1e9b6/artifacts
+deleted_time: 1740565551553
+end_time: 1740520678143
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: e1b147a12fea47f2b008613552c1e9b6
+run_name: youthful-shrike-749
+run_uuid: e1b147a12fea47f2b008613552c1e9b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740520673999
+status: 3
+tags: []
+user_id: the

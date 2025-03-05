@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/c906538b2cb24f66a772bc36e2dce40d/artifacts
+deleted_time: 1740565551334
+end_time: 1740525426297
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: c906538b2cb24f66a772bc36e2dce40d
+run_name: painted-asp-517
+run_uuid: c906538b2cb24f66a772bc36e2dce40d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740525426212
+status: 3
+tags: []
+user_id: jenkins

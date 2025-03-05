@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/9f5c25e366a344e096d0be01cdfc7b8c/artifacts
+deleted_time: 1740565551350
+end_time: 1740525414122
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 9f5c25e366a344e096d0be01cdfc7b8c
+run_name: luminous-turtle-706
+run_uuid: 9f5c25e366a344e096d0be01cdfc7b8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740525414072
+status: 3
+tags: []
+user_id: jenkins

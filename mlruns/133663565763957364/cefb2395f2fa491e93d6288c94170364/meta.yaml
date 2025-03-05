@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/cefb2395f2fa491e93d6288c94170364/artifacts
+end_time: 1741150097655
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: cefb2395f2fa491e93d6288c94170364
+run_name: amusing-toad-205
+run_uuid: cefb2395f2fa491e93d6288c94170364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741150091481
+status: 3
+tags: []
+user_id: jenkins

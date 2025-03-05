@@ -8,9 +8,11 @@ from catboost import CatBoostClassifier
 
 MODEL_PATH = "catboost_model.pkl"
 
+
 try:
-    model = joblib.load(MODEL_PATH)
-    print("Modèle chargé avec succès.")
+    model = CatBoostClassifier()
+    model.load_model(MODEL_PATH)
+    print("Modèle chargé avec succès via CatBoost.")
 except Exception as e:
     print(f"Erreur lors du chargement du modèle : {str(e)}")
 

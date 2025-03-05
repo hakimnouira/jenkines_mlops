@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/0dd2d99a8e37445383cc0cb4d4d00b15/artifacts
+deleted_time: 1740565551361
+end_time: 1740525327770
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 0dd2d99a8e37445383cc0cb4d4d00b15
+run_name: delicate-skunk-828
+run_uuid: 0dd2d99a8e37445383cc0cb4d4d00b15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740525327694
+status: 3
+tags: []
+user_id: jenkins

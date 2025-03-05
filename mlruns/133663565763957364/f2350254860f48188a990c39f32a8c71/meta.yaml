@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/f2350254860f48188a990c39f32a8c71/artifacts
+deleted_time: 1740565551387
+end_time: 1740524548647
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: f2350254860f48188a990c39f32a8c71
+run_name: hilarious-turtle-391
+run_uuid: f2350254860f48188a990c39f32a8c71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524548601
+status: 3
+tags: []
+user_id: jenkins

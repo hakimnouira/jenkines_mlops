@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/ac6b4561d78445669df9e4af3e031936/artifacts
+end_time: 1741152097108
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: ac6b4561d78445669df9e4af3e031936
+run_name: ambitious-kit-627
+run_uuid: ac6b4561d78445669df9e4af3e031936
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741152097064
+status: 3
+tags: []
+user_id: jenkins

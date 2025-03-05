@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/bdd8ed532b394b96b4baba4fbf5835c7/artifacts
+end_time: 1741151404054
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: bdd8ed532b394b96b4baba4fbf5835c7
+run_name: suave-fowl-308
+run_uuid: bdd8ed532b394b96b4baba4fbf5835c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741151398054
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/8eb3b549b493418595ad19d182a4503b/artifacts
+deleted_time: 1740565551467
+end_time: 1740523875627
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 8eb3b549b493418595ad19d182a4503b
+run_name: polite-fox-323
+run_uuid: 8eb3b549b493418595ad19d182a4503b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740523870832
+status: 3
+tags: []
+user_id: jenkins

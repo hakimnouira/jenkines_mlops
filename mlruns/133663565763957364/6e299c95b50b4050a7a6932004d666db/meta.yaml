@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/6e299c95b50b4050a7a6932004d666db/artifacts
+deleted_time: 1740565551252
+end_time: 1740558073834
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 6e299c95b50b4050a7a6932004d666db
+run_name: rogue-shrew-883
+run_uuid: 6e299c95b50b4050a7a6932004d666db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740558069330
+status: 3
+tags: []
+user_id: jenkins

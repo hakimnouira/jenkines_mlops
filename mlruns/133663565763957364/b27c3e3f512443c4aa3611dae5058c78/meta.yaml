@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/b27c3e3f512443c4aa3611dae5058c78/artifacts
+end_time: 1741150125812
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: b27c3e3f512443c4aa3611dae5058c78
+run_name: hilarious-robin-572
+run_uuid: b27c3e3f512443c4aa3611dae5058c78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741150125753
+status: 3
+tags: []
+user_id: jenkins

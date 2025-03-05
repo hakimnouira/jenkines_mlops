@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/57204f88e8664050bc6b1f3c45466292/artifacts
+deleted_time: 1740565551516
+end_time: 1740522589918
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 57204f88e8664050bc6b1f3c45466292
+run_name: fortunate-conch-120
+run_uuid: 57204f88e8664050bc6b1f3c45466292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522585711
+status: 3
+tags: []
+user_id: jenkins

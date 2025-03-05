@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/a8b5ece1725343e79c3fa323b9b398a3/artifacts
+end_time: 1741150085465
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: a8b5ece1725343e79c3fa323b9b398a3
+run_name: unleashed-hawk-539
+run_uuid: a8b5ece1725343e79c3fa323b9b398a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741150085420
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/dfcbdaa11bfc44baac318bdfc00625ab/artifacts
+end_time: 1741150103247
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: dfcbdaa11bfc44baac318bdfc00625ab
+run_name: entertaining-kit-764
+run_uuid: dfcbdaa11bfc44baac318bdfc00625ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741150102103
+status: 3
+tags: []
+user_id: jenkins

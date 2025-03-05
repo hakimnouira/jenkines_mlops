@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/bbc8c8c6f54b415a99984d8f85952133/artifacts
+deleted_time: 1740565551363
+end_time: 1740524561535
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: bbc8c8c6f54b415a99984d8f85952133
+run_name: gentle-shrew-60
+run_uuid: bbc8c8c6f54b415a99984d8f85952133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524561449
+status: 3
+tags: []
+user_id: jenkins

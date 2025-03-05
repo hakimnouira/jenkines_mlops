@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/b13e94435c754ccfb9926b6c9d51cd18/artifacts
+deleted_time: 1740565551254
+end_time: 1740558065233
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: b13e94435c754ccfb9926b6c9d51cd18
+run_name: respected-pug-404
+run_uuid: b13e94435c754ccfb9926b6c9d51cd18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740558065184
+status: 3
+tags: []
+user_id: jenkins

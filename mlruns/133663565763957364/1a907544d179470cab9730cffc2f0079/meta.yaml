@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/1a907544d179470cab9730cffc2f0079/artifacts
+end_time: 1740566864388
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: 1a907544d179470cab9730cffc2f0079
+run_name: melodic-panda-578
+run_uuid: 1a907544d179470cab9730cffc2f0079
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740566864259
+status: 3
+tags: []
+user_id: jenkins

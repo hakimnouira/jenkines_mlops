@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/5c01d1c3ff614d24ac74e0472a3bd35b/artifacts
+deleted_time: 1740565551301
+end_time: 1740557913706
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 5c01d1c3ff614d24ac74e0472a3bd35b
+run_name: unleashed-worm-954
+run_uuid: 5c01d1c3ff614d24ac74e0472a3bd35b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740557909043
+status: 3
+tags: []
+user_id: jenkins

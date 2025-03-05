@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/0ffbf1da73ce48d4a60f9000419bc845/artifacts
+deleted_time: 1740565551443
+end_time: 1740524107932
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 0ffbf1da73ce48d4a60f9000419bc845
+run_name: beautiful-rook-156
+run_uuid: 0ffbf1da73ce48d4a60f9000419bc845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524103397
+status: 3
+tags: []
+user_id: jenkins

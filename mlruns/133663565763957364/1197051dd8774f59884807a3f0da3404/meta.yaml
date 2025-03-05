@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/1197051dd8774f59884807a3f0da3404/artifacts
+deleted_time: 1740565551542
+end_time: 1740522303932
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 1197051dd8774f59884807a3f0da3404
+run_name: smiling-fowl-464
+run_uuid: 1197051dd8774f59884807a3f0da3404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522300102
+status: 3
+tags: []
+user_id: jenkins

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/8263d96eff9344fa9021daafe6d9c2ed/artifacts
+deleted_time: 1740565551402
+end_time: 1740524409147
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 8263d96eff9344fa9021daafe6d9c2ed
+run_name: valuable-hen-179
+run_uuid: 8263d96eff9344fa9021daafe6d9c2ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740524409095
+status: 3
+tags: []
+user_id: jenkins

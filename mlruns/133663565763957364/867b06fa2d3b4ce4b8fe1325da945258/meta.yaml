@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/867b06fa2d3b4ce4b8fe1325da945258/artifacts
+deleted_time: 1740565551513
+end_time: 1740522594174
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 867b06fa2d3b4ce4b8fe1325da945258
+run_name: glamorous-fly-19
+run_uuid: 867b06fa2d3b4ce4b8fe1325da945258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522594099
+status: 3
+tags: []
+user_id: jenkins

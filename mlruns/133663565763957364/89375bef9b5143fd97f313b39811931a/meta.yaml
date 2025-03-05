@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/89375bef9b5143fd97f313b39811931a/artifacts
+deleted_time: 1740565551496
+end_time: 1740522647631
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: deleted
+run_id: 89375bef9b5143fd97f313b39811931a
+run_name: smiling-flea-849
+run_uuid: 89375bef9b5143fd97f313b39811931a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740522643824
+status: 3
+tags: []
+user_id: jenkins

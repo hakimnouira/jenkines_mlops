@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/b976ff5b610449288942acadb6d7f848/artifacts
+end_time: 1741152915243
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: b976ff5b610449288942acadb6d7f848
+run_name: skittish-horse-975
+run_uuid: b976ff5b610449288942acadb6d7f848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741152908972
+status: 3
+tags: []
+user_id: jenkins

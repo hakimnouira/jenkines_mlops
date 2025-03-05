@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/133663565763957364/78b3a9753ccc4440ad9c0f7127a7f151/artifacts
+end_time: 1741151688253
+entry_point_name: ''
+experiment_id: '133663565763957364'
+lifecycle_stage: active
+run_id: 78b3a9753ccc4440ad9c0f7127a7f151
+run_name: wise-loon-352
+run_uuid: 78b3a9753ccc4440ad9c0f7127a7f151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741151687172
+status: 3
+tags: []
+user_id: jenkins
