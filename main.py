@@ -1,5 +1,8 @@
 import argparse
 import psutil
+import os
+import subprocess
+import time
 from model_pipeline import prepare_data, train_model, evaluate_model, save_model, load_model
 import mlflow
 import mlflow.catboost
@@ -9,17 +12,17 @@ mlflow.set_tracking_uri("http://127.0.0.1:5001")
 mlflow.set_experiment("Mon_Experiment_ML")
 
 def log_system_metrics():
-    # Capture CPU usage over a 1-second interval
+    """Log CPU and RAM usage."""
     cpu_usage = psutil.cpu_percent(interval=1)
-    # Get used RAM in MB
     memory = psutil.virtual_memory()
     ram_used_mb = memory.used / (1024 * 1024)
-    
+
     mlflow.log_metric("cpu_usage", cpu_usage)
     mlflow.log_metric("ram_used_mb", ram_used_mb)
     print(f"Logged CPU Usage: {cpu_usage}% and RAM Used: {ram_used_mb:.2f} MB")
 
 def prepare_and_log_data(train_path, test_path):
+    """Prepare data and log it to MLflow."""
     X_train, y_train, X_test, y_test = prepare_data(train_path, test_path)
     mlflow.log_artifact(train_path, "data")
     mlflow.log_artifact(test_path, "data")
@@ -27,41 +30,42 @@ def prepare_and_log_data(train_path, test_path):
     return X_train, y_train, X_test, y_test
 
 def train_and_log_model(X_train, y_train):
-    # Log system metrics before training
+    """Train model and log it to MLflow."""
     log_system_metrics()
-    
-    # Train the model
     model = train_model(X_train, y_train)
-    
-    # Log system metrics after training (optional)
     log_system_metrics()
 
-    # Log the model
     mlflow.catboost.log_model(model, "model")
-    
-    # Save the model locally
     save_model(model, 'catboost_model.pkl')
     mlflow.log_artifact('catboost_model.pkl', "model")
-    
+
     print('Model training complete and saved.')
     return model
 
 def evaluate_and_log_model(model, X_test, y_test):
-    # Evaluate the model
+    """Evaluate model and log metrics."""
     accuracy, auc, report = evaluate_model(model, X_test, y_test)
-    
-    # Log metrics
+
     mlflow.log_metric("accuracy", accuracy)
     mlflow.log_metric("auc", auc)
-    
-    # Log the evaluation report
     mlflow.log_text(report, "evaluation_report.txt")
-    
-    # Log system metrics after evaluation (optional)
-    log_system_metrics()
 
+    log_system_metrics()
     print(f'Accuracy: {accuracy}\nAUC: {auc}\nReport:\n{report}')
     return accuracy, auc, report
+
+def start_elk():
+    """Start ELK stack using make."""
+    print("Starting ELK Stack...")
+    try:
+        if os.name == 'nt':  # Windows
+            subprocess.run(["make", "elk-up"], shell=True, check=True)
+        else:  # Linux/macOS
+            subprocess.run(["make", "elk-up"], check=True)
+    except subprocess.CalledProcessError as e:
+        print(f"Failed to start ELK: {e}")
+        exit(1)
+    time.sleep(10)  # Give ELK some time to start
 
 def main():
     parser = argparse.ArgumentParser()
@@ -75,6 +79,8 @@ def main():
 
     train_path = 'cleaned_train11.csv'
     test_path = 'cleaned_test11.csv'
+
+    start_elk()  # Start ELK before running any ML task
 
     with mlflow.start_run():
         if args.prepare:
