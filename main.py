@@ -1,4 +1,5 @@
 import argparse
+import psutil
 from model_pipeline import prepare_data, train_model, evaluate_model, save_model, load_model
 import mlflow
 import mlflow.catboost
@@ -6,6 +7,17 @@ import mlflow.catboost
 # Set the tracking URI and experiment name
 mlflow.set_tracking_uri("http://127.0.0.1:5001")
 mlflow.set_experiment("Mon_Experiment_ML")
+
+def log_system_metrics():
+    # Capture CPU usage over a 1-second interval
+    cpu_usage = psutil.cpu_percent(interval=1)
+    # Get used RAM in MB
+    memory = psutil.virtual_memory()
+    ram_used_mb = memory.used / (1024 * 1024)
+    
+    mlflow.log_metric("cpu_usage", cpu_usage)
+    mlflow.log_metric("ram_used_mb", ram_used_mb)
+    print(f"Logged CPU Usage: {cpu_usage}% and RAM Used: {ram_used_mb:.2f} MB")
 
 def prepare_and_log_data(train_path, test_path):
     X_train, y_train, X_test, y_test = prepare_data(train_path, test_path)
@@ -15,9 +27,15 @@ def prepare_and_log_data(train_path, test_path):
     return X_train, y_train, X_test, y_test
 
 def train_and_log_model(X_train, y_train):
+    # Log system metrics before training
+    log_system_metrics()
+    
     # Train the model
     model = train_model(X_train, y_train)
     
+    # Log system metrics after training (optional)
+    log_system_metrics()
+
     # Log the model
     mlflow.catboost.log_model(model, "model")
     
@@ -39,6 +57,9 @@ def evaluate_and_log_model(model, X_test, y_test):
     # Log the evaluation report
     mlflow.log_text(report, "evaluation_report.txt")
     
+    # Log system metrics after evaluation (optional)
+    log_system_metrics()
+
     print(f'Accuracy: {accuracy}\nAUC: {auc}\nReport:\n{report}')
     return accuracy, auc, report
 
